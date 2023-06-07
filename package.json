@@ -1,0 +1,17 @@
+{
+  "name": "changeset-automation-test",
+  "version": "0.0.0",
+  "license": "UNLICENSED",
+  "description": "A library of React components.",
+  "author": "Kim Michael Gutierrez",
+  "private": true,
+  "engines": {
+    "node": ">= 16.15.1"
+  },
+  "scripts": {
+    "build": "node bin/compile.js"
+  },
+  "dependencies": {
+    "@changesets/cli": "^2.26.1"
+  }
+}
